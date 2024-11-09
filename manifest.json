@@ -1,7 +1,7 @@
 {
     "name": "Kwami",
     "short_name": "Kwami",
-    "version": "0.0.0",  
+    "version": "0.0.1",  
     "icons": [
         {
             "src": "images/android-chrome-192x192.png",
