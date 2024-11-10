@@ -1,0 +1,23 @@
+<a href="drama1.html" target="_blank" class="card">
+                    <img src="https://via.placeholder.com/150" alt="Image Drama 1">
+                    <h3>Talcado</h3>
+                    <p>Ce dossier est constament mis à jour</p>
+                </a>
+                <a href="drama1.html" target="_blank" class="card">
+                    <img src="https://via.placeholder.com/150" alt="Image Drama 1">
+                    <h3>Pyrorca</h3>
+                    <p>Ce dossier est constament mis à jour</p>
+                </a>
+                <a href="drama1.html" target="_blank" class="card">
+                    <img src="https://via.placeholder.com/150" alt="Image Drama 1">
+                    <h3>Astérion</h3>
+                    <p>Ce dossier est constament mis à jour</p>
+                </a>
+                <a href="drama1.html" target="_blank" class="card">
+                    <img src="https://via.placeholder.com/150" alt="Image Drama 1">
+                    <h3>Inconnue</h3>
+                    <p>Ce dossier est constament mis à jour</p>
+                </a>
+
+----------------
+
