@@ -254,6 +254,20 @@ section h2 i {
 
 /**Footer**/
 /* Footer Styles */
+html, body {
+    height: 100%; /* Assurez-vous que le corps prend toute la hauteur */
+    margin: 0; /* Retirez les marges par défaut */
+}
+
+body {
+    display: flex;
+    flex-direction: column; /* Pour mettre le contenu et le footer en colonne */
+}
+
+.content {
+    flex: 1; /* Permet au contenu de prendre tout l'espace disponible */
+}
+
 footer {
     background-color: #4a4e69;
     color: #ffffff;
@@ -337,6 +351,7 @@ footer {
         margin-bottom: 15px;
     }
 }
+
 
 /** Bouton avertir **/
 
